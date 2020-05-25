@@ -44,7 +44,7 @@ iconic font
 
 ### Images & icons
 https://www.pexels.com
-<hr>
+
 
 ### This PSD template copyright by DartThemes.com
 <hr>

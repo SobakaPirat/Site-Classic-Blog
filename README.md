@@ -1,5 +1,7 @@
 # Classic-Blog
 <hr>
+http://sobakapirat.pythonanywhere.com/
+<hr>
 
 
 ## HOW TO RUN THIS PROJECT
@@ -13,7 +15,7 @@
 pip install django==3.0.5
 pip install Pillow==7.1.2
 pip install django-ckeditor==5.9.0
-pip install django-debug-toolbar
+pip install django-debug-toolbar==2.2
 </code>
 </pre>
 

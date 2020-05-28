@@ -13,6 +13,7 @@
 pip install django==3.0.5
 pip install Pillow==7.1.2
 pip install django-ckeditor==5.9.0
+pip install django-debug-toolbar
 </code>
 </pre>
 

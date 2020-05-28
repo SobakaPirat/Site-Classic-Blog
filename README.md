@@ -1,22 +1,28 @@
 # Classic-Blog
 <hr>
 
+
 ## HOW TO RUN THIS PROJECT
 
-<ul>
-<li>Open Terminal and Execute Following Command (You should have installed git)</li></ul>
+<ul><li>Install Python(3.8) (Dont Forget to Tick Add to Path while installing Python)</li>
+ <br>
+ <li>Open Terminal and Execute Following Commands :</li></ul>
  <br>
 <pre>
 <code>
-"git clone https://github.com/SobakaPirat/Site-Classic-Blog"
+pip install django==3.0.5
+pip install Pillow==7.1.2
+pip install django-ckeditor==5.9.0
 </code>
 </pre>
 
  
-<ul><li>Open .../Site-Classic-Blog/dartblog in your terminal and activate venv</li></ul>
+<ul><li>Move to project folder in Terminal. Then run following Commands :</li></ul>
 <pre>
 <code>
-"dartblog/venv/Scripts/activate.bat"
+py manage.py makemigrations
+py manage.py migrate
+py manage.py runserver
 </code>
 </pre>
 
